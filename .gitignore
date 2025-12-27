@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# VSCode / editors
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+service.json
+*.pem
+*.key
+
+# Python packaging / build
+build/
+dist/
+*.egg-info/
+
+
