@@ -137,19 +137,3 @@ python get_doc_content.py
 
 It writes a file named `cell_indexes_output.json` in the project root, which can be useful when building more advanced table-manipulation logic.
 
----
-
-### Notes for Your Portfolio / CV
-
-This project demonstrates:
-
-- Integration with real-world APIs (Google Docs and Google Drive).
-- Clean separation between **library code** (`docbuilder`) and **application script** (`fill_data.py`).
-- Use of `pandas` for tabular data processing and rendering into Google Docs tables.
-- Optional notification workflow via Slack.
-
-You can link directly to this GitHub repository in your CV and mention:
-
-> “Built an automated document generation tool using the Google Docs API and pandas, including a reusable Python client library and a CLI that generates fully formatted performance reports and notifies teams via Slack.”
-
-
